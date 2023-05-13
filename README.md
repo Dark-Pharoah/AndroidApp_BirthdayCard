@@ -10,13 +10,16 @@
 
 # Designs
 
-## App UI
+## App User Interface
 
-### Screenshot 1  
-
+### Screenshot 1
+<br>
 <img src="Resources/photo_1.jpg" alt="ScreenShot 1" width="300" height="550">
 
+<br>
+
 ### Screenshot 2 
+<br>
 <img src="Resources/photo_2.jpg" alt="ScreenShot 2" width="300" height="550">
 
 
@@ -26,7 +29,8 @@ Birthday Greeting Card
 
 Welcome to the Birthday Greeting Card Generator! This Android application, developed using Android Studio, allows you to create personalized birthday greeting cards for your friends and loved ones. With just a few simple steps, you can generate a customized greeting card by inputting the name of the recipient.
 
-Features
+Features 
+
 Personalized Greeting Cards: The application utilizes the name provided by the user to generate a unique and customized birthday greeting card. Each card is tailored specifically to the recipient, adding a personal touch to your wishes.
 Beautiful Designs: Choose from a variety of stunning templates and designs to create visually appealing and eye-catching birthday cards. Express your creativity by selecting the perfect design that suits the personality and preferences of the recipient.
 User-Friendly Interface: The application is designed to be intuitive and user-friendly, making it easy for anyone to create their own personalized greeting cards. Simply enter the name, select a design, and the application will generate a beautiful card instantly.
